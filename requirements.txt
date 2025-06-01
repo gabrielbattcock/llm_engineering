@@ -15,7 +15,7 @@ openai
 gradio
 langchain
 tiktoken
-faiss-cpu
+faiss-cpu==1.7.4
 langchain-openai
 langchain_experimental
 langchain_chroma
