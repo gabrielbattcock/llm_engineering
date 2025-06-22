@@ -1,0 +1,8 @@
+idea for LLM project
+
+reads in CV
+reads in job descriptions (either using direct url or just url from a company you are interested in)
+
+It will summarise jobs that you could apply for and help you optimize your CV
+    - it will say what is relevant from you CV and help you to update it
+    - it will identify what you are missing from the job advert
